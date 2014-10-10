@@ -1,0 +1,31 @@
+.sponsor-logo {
+  width: 100%;
+  height: auto;
+  margin-bottom: 45px;
+}
+
+.intro .intro-text.registration-title {
+  font-size: 45px;
+  text-align: center;
+}
+
+.registration-announcement {
+  text-align: center;
+}
+
+.form {
+  text-align: left;
+  margin-top: 100px;
+}
+
+.form-group {
+  margin-bottom: 35px;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0;
+}
+
+.align-left {
+  text-align: left;
+}
